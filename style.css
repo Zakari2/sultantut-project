@@ -1,0 +1,126 @@
+.sultan-logo{    width: 162px;
+    height: 43px;
+    object-fit: cover;
+    padding-top: 8px;
+}
+
+.search-buttom{
+    padding-left: 297px;
+}
+
+.search-buttom-color{
+        background-color: #f8f8f8;
+    
+}
+
+.search-box{
+    
+    padding: 6px 97px;
+    border-radius: 6px;
+}
+
+
+.navbar-menu{
+    margin-bottom:0px;
+}
+.body-font{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.next-level{
+    font-size: 70px;
+    color: white;
+    margin-top: -380px;
+    margin-left: 70px;
+
+}
+.next-level-sub{
+    font-size: 30px;
+    color: white;
+    margin-top: 16px;
+    margin-left: 70px;
+    
+}
+
+.back-image{
+    color: white;
+    background-image: linear-gradient(to right, rgb(255, 38, 0), rgb(255, 102, 0),rgb(255, 38, 0));
+    margin-top: 35px;
+    margin-bottom: 3rem;
+}
+
+.search-again{
+    margin-top: 16px; 
+    margin-left: 60px;
+    margin-bottom: 10px;
+    
+}
+
+.img-main{max-width: 100%}
+
+
+.drop-text{
+    font-size:14px;
+}
+
+.list-size{
+    font-size: 16px;
+}
+.list-border{
+    margin-bottom: 4rem;
+}
+
+.bestseller{
+    background-color: yellow;
+    width: 35%;
+    margin-bottom: 0px;
+    padding-left: 6px;
+}
+
+.footer{
+    background-color: rgb(114, 114, 114);
+    color: white;
+    padding-top: 19px;
+}
+
+
+
+
+.about-level{
+    color: white;
+    margin-top: -353px;
+    font-size: 16px;
+    
+    
+}
+
+.btn-new{
+    margin-top: -906px;
+    margin-inline-start: 125px;
+    margin-inline-end: -126px;
+}
+
+.about-level-sub{
+    
+    font-size: 40px;
+    color: white;
+    margin-top: 16px;
+    margin-bottom: 151px;
+}
+
+.back-image-about{
+    color: white;
+    background-image: linear-gradient(to right, rgb(255, 38, 0), rgb(255, 102, 0),rgb(255, 38, 0));
+    margin-top: 35px;
+    margin-bottom: 4rem;
+    padding: 25px;
+}
+
+.login-bg{
+    background-color: rgb(75, 160, 233);
+
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    color: white;
+}
